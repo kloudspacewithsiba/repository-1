@@ -12,5 +12,5 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: run script
+      - name: Run script
         run: echo "testing..."
